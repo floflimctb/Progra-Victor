@@ -24,47 +24,78 @@
             
             <section>
                 <article>
+                    <h2>2019/04/23 - La cueillette du thé wulong</h2>
+                    
                     <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper massa sit amet placerat euismod. Proin finibus ligula sed condimentum condimentum. Aliquam lorem nisi, auctor non nunc laoreet, congue consequat lectus. Maecenas id nunc non massa lobortis facilisis eget tincidunt tellus. Vestibulum fringilla, odio ut tristique fermentum, mauris nisl tincidunt tortor, sit amet blandit arcu mi et orci. Cras vehicula diam vel magna pretium, id efficitur turpis volutpat. Aenean purus mauris, porttitor vel ultrices sit amet, faucibus id lacus. Sed suscipit tincidunt euismod. Nunc dignissim lectus at suscipit mattis. Pellentesque hendrerit, sapien sed mollis pretium, felis ligula efficitur ex, vel dignissim lorem magna tempus arcu. In maximus non dolor sit amet molestie. Praesent nunc eros, viverra ut enim nec, auctor vehicula velit. Nam accumsan ac nisl et suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec sit amet ex vel justo convallis venenatis. Integer venenatis neque diam, tempor fermentum justo sodales id.
-                        </p>
+                        La première étape du processus de fabrication du thé est la cueillette. Cette étape est fondamentale pour obtenir des thés de qualité, est un travail minutieux qui nécessite beaucoup d’expérience. La cueillette manuelle représente près de la moitié du coût de revient du thé.
+                    </p>
                         
-                        <p>
-                            <b>Quisque vitae mollis nisl.</b> Aliquam fermentum porttitor vestibulum. Vivamus ut velit arcu. Cras leo ante, vulputate nec felis non, euismod commodo risus. Vivamus bibendum orci eget eros egestas, dignissim sollicitudin est efficitur. Vivamus sed mauris dapibus dolor lacinia vulputate. Sed suscipit vitae neque ac cursus. Vivamus sed laoreet velit.
-                        </p>
-                        
-                        <p>
-                            <b>Curabitur rhoncus ante sed lorem porttitor posuere.</b> Nullam tincidunt, est ut rutrum posuere, sapien turpis aliquet lacus, a tristique turpis libero eget arcu. Phasellus accumsan commodo felis, dictum sollicitudin mauris ullamcorper et. Aliquam non justo at mauris consectetur rutrum. Proin viverra posuere mauris a lacinia. Sed eget metus at libero cursus rhoncus sit amet vitae erat. Nam fringilla risus sed felis eleifend, at sollicitudin tellus ultricies. Fusce interdum nisi ac dolor finibus imperdiet. Proin commodo ornare ipsum, a pellentesque enim ullamcorper quis. Ut venenatis justo vel molestie gravida. Maecenas consequat lorem nec quam mattis eleifend. Nulla non bibendum ipsum. Etiam ornare sem purus, at pellentesque sapien scelerisque nec. Fusce dictum ultricies ligula, nec cursus felis porttitor sed. Aliquam a justo non libero egestas sagittis vel ac metus.
-                        </p>
-                        
-                        <p>
-                            Praesent mattis velit purus, sit amet dignissim ex sagittis non. Fusce hendrerit sem enim, sed euismod tellus sollicitudin lacinia. Vestibulum non convallis sem. Quisque condimentum vulputate ante, sit amet lacinia diam vulputate quis. Aliquam accumsan diam pharetra dapibus lacinia. Duis urna ligula, rhoncus a pharetra in, efficitur sed ante. Fusce eu tincidunt nibh. Praesent varius sit amet nisi eget accumsan. Vestibulum a enim mauris. Vivamus hendrerit molestie feugiat. Vivamus quis elementum neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse luctus consequat lectus, eget tempor sem blandit sed.
-                        </p>
-                        
-                        <p>
-                            Mauris egestas tempor volutpat. Nullam congue justo a ipsum rutrum posuere. Phasellus rutrum suscipit tincidunt. Vivamus semper augue in leo blandit dapibus. Ut at metus mattis, pharetra nisl non, congue massa. Vestibulum elit orci, pretium quis eleifend vitae, molestie sit amet nulla. Integer gravida felis sit amet sem aliquet, sit amet ullamcorper est pretium. Ut accumsan facilisis fermentum. Nulla id metus placerat, lacinia nibh id, dapibus lorem. Pellentesque lectus mi, viverra vel eros a, blandit accumsan lectus. Cras facilisis mauris eu enim pharetra, ac semper nunc mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt enim quis pretium cursus. Donec ornare odio non neque accumsan dictum.
-                        </p>
+                    <p>
+                        En Chine, les cueillettes suivent historiquement les 24 périodes solaires du calendrier agricole chinois (節氣Jieqi en mandarin, 節気Sekki en japonais, 절기 Jeolgi en coréen et Tiet khí en vietnamien).
+                    </p>
 
-                        <p>
-                            In tempor mi id eros dapibus, sed venenatis odio volutpat. Praesent at viverra urna. Curabitur sed risus facilisis, rutrum est ac, interdum nibh. Duis posuere tincidunt nulla facilisis cursus. Donec lacinia, arcu vel facilisis pellentesque, libero mauris cursus mi, vitae interdum leo dui sit amet est. Aliquam id dignissim orci. Nulla facilisi. Proin egestas aliquam libero, sit amet faucibus diam ultrices in. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc congue neque et eros bibendum, sit amet rutrum turpis faucibus. Suspendisse tempor quam metus, id ultricies magna hendrerit ac. Nulla posuere rutrum egestas.
-                        </p>
+                    <p>
+                        La « pure lumière » 清明QingMing est une des 24 périodes solaires, se situe entre le 4 et le 6 avril. Le thé « Pré Qing Ming » signifie un thé de printemps récolté avant la fête de la pure lumière, et en général désigne un thé d’exception en raison des premiers bourgeons de thé et des faibles quantités, notamment pour les thés verts.
+                    </p>
 
-                        <p>
-                            Fusce congue, velit varius congue fringilla, nunc felis auctor risus, et commodo leo sem ut magna. Duis euismod porta nunc, sagittis scelerisque turpis iaculis commodo. Fusce pharetra vitae libero tincidunt fermentum. Praesent sit amet eros ultricies, vestibulum massa at, ultrices dolor. Sed porttitor turpis in risus volutpat, eu pellentesque nibh sagittis. Sed mollis, erat id venenatis finibus, quam ante semper tortor, at maximus ipsum leo nec massa. Proin pretium dignissim blandit. Duis eleifend tempus congue. Cras tellus justo, eleifend non leo vel, iaculis cursus elit. Integer non neque nec enim ornare congue at eu nisl. Fusce scelerisque lobortis magna, eu feugiat felis rhoncus eu. Nam eu metus et augue fermentum finibus. Integer felis libero, venenatis vitae commodo vel, vestibulum in ipsum. Aenean ut porta ipsum. Aliquam fringilla viverra lectus ac volutpat.
-                        </p>
+                    <p>
+                        En revanche, la cueillette du wulong (TieGuanYin, Thés des rochers ou DanCong…) n’utilise pas le même standard. Elle porte le nom spécifique 开面采KaiMianCai : « cueillette face ouverte ». Cela signifie que l’on cueille les vraies feuilles bien ouvertes, non pas fermées comme des bourgeons !
+                    </p>
 
-                        <p>
-                            Phasellus consequat, sem ac pharetra tincidunt, nunc ligula mollis odio, quis lobortis lorem ante sit amet diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris massa ipsum, tristique eget sapien at, tempus fermentum sapien. Mauris consequat vitae nisi in aliquet. Morbi malesuada dui sed placerat imperdiet. Vivamus a lobortis nunc, eget eleifend justo. Phasellus in quam mauris. Praesent sed commodo nibh, sit amet rutrum massa. Donec gravida elementum nibh ac sollicitudin. Maecenas in iaculis felis, et tempor justo. Fusce blandit diam elit, convallis scelerisque turpis viverra sed.
-                        </p>
+                    <p>
+                        On distingue trois types de cueillette du wulong dont :
+                    </p>
 
-                        <p>
-                            Nulla pharetra congue venenatis. Nunc fermentum quis est eget aliquet. Suspendisse id quam a mauris tincidunt fermentum sed vitae felis. Pellentesque eu turpis dui. Aenean eleifend turpis convallis luctus interdum. Sed non elit dictum, iaculis sapien eget, finibus velit. Aliquam vitae vestibulum ex, nec laoreet dolor. Curabitur et tempor mi. Fusce venenatis tortor at ex vulputate maximus. Vestibulum malesuada sollicitudin aliquam.
-                        </p>
-
-                        <p>
-                            Donec vel mi non urna vehicula auctor sit amet eu orci. Aliquam at sodales dui, id sodales libero. Nullam egestas scelerisque nisi. Pellentesque viverra mattis lacus, in rutrum ex dapibus a. In eget diam libero. Sed diam turpis, varius sed ligula sit amet, interdum aliquet nulla. Etiam vel dignissim ligula. Aliquam egestas vulputate dui, et iaculis ligula elementum vitae. Nunc maximus nisl nisl, a eleifend tellus rutrum eget. Duis odio felis, semper eu ligula ut, mattis mattis metus. Phasellus accumsan, eros vitae laoreet consequat, nisi nibh dapibus tellus, ac ornare lacus nulla vitae dui. Nunc maximus auctor libero at sagittis. Aenean bibendum, lorem rhoncus placerat hendrerit, magna dolor auctor nulla, non dignissim leo purus non sapien. Fusce aliquam, orci vitae congue molestie, nisi nunc vestibulum arcu, ut venenatis urna dui ac nisi.
-                        </p>
+                    <ul>
+                        <li>   
+                            « Petite face ouverte » 小开面XiaoKaiMian : le bourgeon est à peine ouvert, devenu une petite feuille <br />
+                        </li>
+                        <li>
+                            « Moyenne face ouverte » 中开面ZhongKaiMian : la première feuille atteint la moitié de la taille de la deuxième feuille
+                        </li>
+                        <li>
+                            « Grande face ouverte » 大开面DaKaiMian : la première feuille atteint les deux tiers ou la quasi-totalité de la taille de la deuxième feuille
+                        </li>
+                    </ul>
+                    
+                    <p>
+                        En conséquence, la cueillette des thés wulong de printemps se déroule un peu plus tard, des « pluies de céréales » 谷雨GuYu au « début de l’été » 立夏LiXia. Autrement dit, les feuilles doivent être cueillies à un stade particulier de leur développement entre le 20 avril et le 6 mai, au moment quand la plupart des feuilles dans le jardin correspondent à la « moyenne face ouverte » ou « grande face ouverte ». Les feuilles ni trop jeunes ni trop âgées permettent de garder la saveur caractéristique florale et d’éviter le coté astringent.
+                    </p>
+                    
+                    <p>
+                        Article d'origine : <a href="https://gouttedethe.com/2017/05/22/la-cueillette-du-the-wulong/" target="_blank">https://gouttedethe.com/2017/05/22/la-cueillette-du-the-wulong/</a>
+                    </p>
+                </article>
+                
+                <article>
+                    <h2>2019/03/20 - Cent thés par jour</h2>
+                    
+                    <p>
+                        Lorsque je raconte aux personnes que je rencontre qu’il m’arrive de déguster cinquante ou cent thés par jour, voire davantage, j’ai droit à des réactions de surprise, et cette question qui revient : comment peut-on goûter autant de thés et sentir encore quelque chose ?
+                    </p>
+                    
+                    <p>
+                        En fait, il est plus facile de déguster vingt thés qu’un seul, surtout s’ils proviennent d’un même terroir, car en passant d’une liqueur à l’autre, en comparant leur tenue en bouche, leur saveur, leur profil aromatique, il devient assez facile de se faire une opinion sur chacune. Lorsque l’on déguste un seul thé, il faut drôlement bien maîtriser les techniques de dégustation et avoir de solides connaissances sur la typicité de sa manufacture pour s’en faire une parfaite opinion.
+                    </p>
+                    
+                    <p>
+                        Article d'origine : <a href="https://www.chercheurdethe.com/2019/04/12/cent-thes-par-jour/" target="_blank">https://www.chercheurdethe.com/2019/04/12/cent-thes-par-jour/</a>
+                    </p>
                 </article>
             </section>
+            
+            <footer>
+                <h3>Contact :</h3>
+                
+                <ul>
+                    <li>
+                        <b>Numéro de téléphone :</b> 01 23 45 67 89
+                    </li>
+                    <li>
+                        <b>Adresse mail : </b> contact@wayoftea.com
+                    </li>
+                </ul>
+            </footer>
         </div>
     </body>
 </html>
