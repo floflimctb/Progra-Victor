@@ -14,7 +14,7 @@
                 <div id="menu">
                     <nav>
                         <ul>
-                            <li><a href="couleurs.php"><img src="images/feuille-transparent.png" alt="feuille" width="35px" height="40px" /> Les différentes couleurs de thé</a></li>
+                            <li><a href="couleurs.php"><img src="images/feuille-transparent.png" alt="feuille" width="35px" height="40px" />Couleurs de thé</a></li>
                             <li><a href="propos.php"><img src="images/feuille-transparent.png" alt="feuille" width="35px" height="40px" />A propos</a></li>
                             <li><a href="contact.php"><img src="images/feuille-transparent.png" alt="feuille" width="35px" height="40px" />Contact</a></li>
                         </ul>
@@ -85,16 +85,11 @@
             </section>
             
             <footer>
-                <h3>Contact :</h3>
+                <h3>Contact</h3>
                 
-                <ul>
-                    <li>
-                        <b>Numéro de téléphone :</b> 01 23 45 67 89
-                    </li>
-                    <li>
-                        <b>Adresse mail : </b> contact@wayoftea.com
-                    </li>
-                </ul>
+                <p>
+                    <img src="images/mail.png" alt="Mail :" width="35px" height="35px" /> contact@wayoftea.com <img src="images/phone.png" alt="Téléphone :" width="50px" height="37px" /> 01 23 45 67 89
+                </p>
             </footer>
         </div>
     </body>
