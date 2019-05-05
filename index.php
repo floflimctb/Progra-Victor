@@ -83,14 +83,6 @@
                     </p>
                 </article>
             </section>
-            
-            <footer>
-                <h3>Contact</h3>
-                
-                <p>
-                    <img src="images/mail.png" alt="Mail :" width="35px" height="35px" /> contact@wayoftea.com <img src="images/phone.png" alt="Téléphone :" width="50px" height="37px" /> 01 23 45 67 89
-                </p>
-            </footer>
         </div>
     </body>
 </html>

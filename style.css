@@ -16,8 +16,7 @@
 
 body {
     background-image: url("images/background.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
 
 #bloc_page {
@@ -35,8 +34,6 @@ body {
 header {
     display: flex;
 }
-
-/* MENU dans le header */
 
 #menu nav {
     border-bottom: 3px #5E3C3C solid;
@@ -75,19 +72,4 @@ header {
 
 #menu nav a:hover {
     text-decoration: underline;
-}
-
-/* FOOTER */
-
-footer {
-    border: 1.5px blue solid;
-    padding: 10px;
-}
-
-footer h3 {
-    text-align: center;
-}
-
-footer p {
-    text-align: center;
 }
